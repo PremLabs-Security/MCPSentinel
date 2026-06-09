@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License MIT"/>
   <img src="https://img.shields.io/badge/Security-Tool-red?style=for-the-badge" alt="Security Tool"/>
+  <img src="https://github.com/PremLabs-Security/MCPSentinel/actions/workflows/ci.yml/badge.svg" alt="CI/CD"/>
 </p>
 
 **MCPSentinel** is a specialized security reconnaissance tool designed to detect exposed and unauthenticated Model Context Protocol (MCP) endpoints, Ollama servers, and common LLM proxies.
